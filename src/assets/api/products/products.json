@@ -7,7 +7,7 @@
     "description": "Leaf rake with 48-inch wooden handle.",
     "price": 19.95,
     "starRating": 3.2,
-    "imageUrl": "https://github.com/DeborahK/Angular-GettingStarted/blob/master/APM-Start/src/assets/images/leaf_rake.png"
+    "imageUrl": "https://raw.githubusercontent.com/DeborahK/Angular-GettingStarted/master/APM-Start/src/assets/images/leaf_rake.png"
   },
   {
     "productId": 2,
@@ -27,7 +27,7 @@
     "description": "Curved claw steel hammer",
     "price": 8.9,
     "starRating": 4.8,
-    "imageUrl": "https://github.com/DeborahK/Angular-GettingStarted/blob/master/APM-Start/src/assets/images/hammer.png"
+    "imageUrl": "https://raw.githubusercontent.com/DeborahK/Angular-GettingStarted/master/APM-Start/src/assets/images/hammer.png"
   },
   {
     "productId": 8,
@@ -37,7 +37,7 @@
     "description": "15-inch steel blade hand saw",
     "price": 11.55,
     "starRating": 3.7,
-    "imageUrl": "https://github.com/DeborahK/Angular-GettingStarted/blob/master/APM-Start/src/assets/images/saw.png"
+    "imageUrl": "https://raw.githubusercontent.com/DeborahK/Angular-GettingStarted/master/APM-Start/src/assets/images/saw.png"
   },
   {
     "productId": 10,
@@ -47,6 +47,6 @@
     "description": "Standard two-button video game controller",
     "price": 35.95,
     "starRating": 4.6,
-    "imageUrl": "https://github.com/DeborahK/Angular-GettingStarted/blob/master/APM-Start/src/assets/images/xbox-controller.png"
+    "imageUrl": "https://raw.githubusercontent.com/DeborahK/Angular-GettingStarted/master/APM-Start/src/assets/images/xbox-controller.png"
   }
 ]
