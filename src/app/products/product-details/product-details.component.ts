@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
-import { IProduct } from '../product';
+import { IProduct } from '../interfaces/product';
 import { ActivatedRoute } from '@angular/router';
-import { ProductService } from 'src/app/services/product.service';
+import { ProductService } from 'src/app/products/services/product.service';
 import { Location } from '@angular/common';
 
 @Component({
